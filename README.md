@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on — Quantum Split Federated Learning research & making AI powered custom system<br>👯 I'm looking to collaborate on — AI automation workflows, federated/distributed ML research, and agentic AI tooling<br>🤝 I'm looking for help with — Quantum-classical hybrid ML architectures and journal paper review strategies<br>🌱 I'm currently learning — MCP server development and advanced federated learning optimization techniques<br>💬 Ask me about — n8n automation, Split Federated Learning, Next.js full-stack apps, or freelancing with AI tools<br>⚡ Fun fact — I'm building a system to make hospitals share ML insights without sharing a single patient record<br>
+🔭 Currently working on — Asynchronous Split Federated Learning research & making AI powered custom system<br>👯 I'm looking to collaborate on AI automation workflows, federated/distributed ML research, and agentic AI tooling<br>🤝 I'm looking for help with Federated Learning architectures and journal paper review strategies<br>🌱 I'm currently learning — MCP server development and advanced federated learning optimization techniques<br>💬 Ask me about — n8n automation, Split Federated Learning, Next.js full-stack apps, or freelancing with AI tools<br>⚡ Fun fact — I'm building a system to make hospitals share ML insights without sharing a single patient record<br>
 
 
 ## 🌐 Socials:
